@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <!-- Replaced GIF with a more professional one -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   <h1>
     Hi there, I'm Vatsal Tibrewal 👋
   </h1>
   <h3>
-    A passionate Full-Stack and Blockchain Developer from India.
+    A passionate Full-Stack Developer from India.
   </h3>
 </div>
 
